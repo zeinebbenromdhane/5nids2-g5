@@ -95,4 +95,6 @@ public class Contrat implements Serializable{
     }
 
 
+    public void setNomContrat(String contratTest) {
+    }
 }
